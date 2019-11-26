@@ -8,7 +8,7 @@ assignees: ''
 
 ---
 
-<!-- Fill out this issue by completing the items below. Not every item may be relevent to you, so feel free to make changes-->
+<!-- Fill out this issue by completing the items below. Not every item may be relevant to you, so feel free to make changes-->
 
 **The current behavior or issue**
 Description of the problem and why it's a problem
