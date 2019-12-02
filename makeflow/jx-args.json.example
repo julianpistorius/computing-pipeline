@@ -1,0 +1,15 @@
+{
+  "ARCHIVE_URL": "https://de.cyverse.org/dl/d/00F871F7-800D-4E84-B1C0-3B15BB9DB2F4/stereoTop-2018-05-07__16-58-55-097.zip",
+  "ARCHIVE_FILE": "stereoTop-2018-05-07__16-58-55-097.zip",
+  "ARCHIVE_DIR": "./output/raw_data/",
+  "UUID": "42a0833c-a6e4-4cf1-b784-b288b7580d64",
+  "BETYDB_URL": "https://terraref.ncsa.illinois.edu/bety/",
+  "BETYDB_KEY": "9999999999999999999999999999999999999999",
+  "CLEANED_META_DIR": "./output/cleaned_metadata/",
+  "TIFS_DIR": "./output/tifs/",
+  "SOILMASK_DIR": "./output/soilmasks/",
+  "FIELDMOSAIC_DIR": "./output/fieldmosaic/",
+  "MOSAIC_BOUNDS": "-111.9750963 33.0764953 -111.9747967 33.074485715",
+  "SENSOR": "stereoTop",
+  "CANOPYCOVER_DIR": "./output/canopycover/"
+}
