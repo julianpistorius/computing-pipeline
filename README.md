@@ -1,16 +1,17 @@
 # AgPipeline computing-pipeline
 
-The computing pipeline is a data storage and computing system that provides researchers with access to all of the ‘raw’ data and derived plant phenotypes.
+This computing pipeline is a system for processing remote sensing data and derived plant phenotypes
 
-This repository is the central issue repository for the AgPipeline organization.
+This repository is the central issue repository, and technical documentation landing site, for the AgPipeline organization.
+Please see our [Organization repo](https://github.com/AgPipeline/Organization-info) for overall project information.
+
+Technical information can now be found on our [GitHub web site](https://agpipeline.github.io/).
 
 ### Quick TERRA REF Contact:
-As mentioned elsewhere, this project is derived from the [TERRA REF](https://github.com/terraref) project.
-These are original links to the TERRA REF project.
-Please refer to the TERRA REF project for additional information.
+Please refer to the original [TERRA REF project](https://github.com/terraref) for additional information..
 
 * [Website](https://terraref.org)
-* email: dlebauer@illinois.edu
+* email: dlebauer@arizona.edu
 * [GitHub Issues](https://github.com/terraref/computing-pipeline/issues)
 
 To provide input on reference data products and support for existing standards and software, please visit the [Reference Data GitHub repository](https://github.com/terraref/reference-data).
