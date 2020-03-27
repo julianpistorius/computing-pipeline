@@ -1,0 +1,7 @@
+co2Sensor
+cropCircle
+EnvironmentLogger
+ndviSensor
+priSensor
+SWIR
+VNIR
